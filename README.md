@@ -3,7 +3,7 @@
 > A spooky interactive Halloween landing page built with **Vue 3**, **Vite**, and **Tailwind CSS**.  
 > Floating ghosts, glowing pumpkins, and a live countdown to Halloween night! 👻  
 
-🌐 **Live Demo:** [Halloween Website](https://halloween-ez9ro5a98-nchynachas-projects.vercel.app/)
+🌐 **Live Demo:** [Halloween Website](https://halloween-beryl.vercel.app/)
 
 ---
 
